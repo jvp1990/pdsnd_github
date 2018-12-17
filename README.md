@@ -1,4 +1,4 @@
-![Bike Share Project](/Users/josephpoore/Downloads/bsprj.png)
+![Bike Share Project](/image/bsprj.png)
 ### Date Created
 This project, which analyzes bike share data from 3 different US cities and the README file were created on December 16th, 2018.
 
