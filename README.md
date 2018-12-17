@@ -1,4 +1,4 @@
-![Bike Share Project](/image/bsprj.png)
+![Bike Share Project](https://raw.githubusercontent.com/jvp1990/pdsnd_github/master/image/bsprj.png)
 ### Date Created
 This project, which analyzes bike share data from 3 different US cities and the README file were created on December 16th, 2018.
 
