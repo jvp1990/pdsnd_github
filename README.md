@@ -1,4 +1,4 @@
-![Bike Share Project](/Users/josephpoore/Downloads/bsprj.jpg)
+![Bike Share Project](/Users/josephpoore/Downloads/bsprj.png)
 ### Date Created
 This project, which analyzes bike share data from 3 different US cities and the README file were created on December 16th, 2018.
 
@@ -41,4 +41,4 @@ List of resources consulted during project development:
 
 * https://leportella.com/cheatlist/2017/11/22/pandas-cheat-list.html
 
-* http://pandas.pydata.org/pandas-docs/stable/10min.html 
+* http://pandas.pydata.org/pandas-docs/stable/10min.html
