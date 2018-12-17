@@ -216,6 +216,7 @@ def main():
         user_stats(df)
         raw_data(df)
 
+        """Option for user to quit or restart the program."""
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
